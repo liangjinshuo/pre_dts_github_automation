@@ -1,0 +1,16 @@
+{
+  "apiID": "package_fb57fa__c__function_aadjabhl66wau",
+  "apiName": "golang_01",
+  "label": {
+    "zh_CN": "golang_01",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

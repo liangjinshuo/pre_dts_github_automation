@@ -1,0 +1,17 @@
+{
+  "apiName": "auto_01",
+  "label": {
+    "zh_CN": "auto_01",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "auto 01 组件描述",
+    "en_US": "auto 01 component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
